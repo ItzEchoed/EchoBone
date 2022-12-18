@@ -8,3 +8,9 @@ You just have to open your whole folder in IDE else it wont work
 
 ```bash
 Run Echo.py
+```
+## Logs
+```
+# It was a questionable decision but i removed ground
+# lso Idk why But pipes -> trees - > pipes #akward
+```
