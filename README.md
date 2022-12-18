@@ -12,5 +12,5 @@ Run Echo.py
 ## Logs
 ```
 # It was a questionable decision but i removed ground
-# lso Idk why But pipes -> trees - > pipes #akward
+# Also Idk why But pipes -> trees - > pipes #akward
 ```
